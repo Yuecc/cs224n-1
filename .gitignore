@@ -1,0 +1,10 @@
+*.swp
+*.pyc
+*.pdf
+*.txt
+*.conll
+*.zip
+.env/*
+lecture_notes/
+lectures/
+
